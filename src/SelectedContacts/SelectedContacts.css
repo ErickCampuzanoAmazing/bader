@@ -1,0 +1,7 @@
+.contacts{
+    color: #047;
+}
+.contacts:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
